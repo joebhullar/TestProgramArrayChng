@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgramArrayChng", "TestProgramArrayChng\TestProgramArrayChng.csproj", "{BD1D5646-B720-4D88-B8BC-BC1E1D4C275D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1D5646-B720-4D88-B8BC-BC1E1D4C275D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1D5646-B720-4D88-B8BC-BC1E1D4C275D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1D5646-B720-4D88-B8BC-BC1E1D4C275D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1D5646-B720-4D88-B8BC-BC1E1D4C275D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6540C8F-EF3A-4A31-AB2F-4AE1348434E7}
+	EndGlobalSection
+EndGlobal
